@@ -1,7 +1,6 @@
 /**
  * e-mail : openprogramming23@gmail.com
  * gitHub : https://github.com/RS-malik-el
- * Donation : paypal.me/RachelSysteme
  *
  * @AUTEUR : Exaucé KIMBEMBE / @OpenProgramming
  * DATE : 05/06/2023
